@@ -9,6 +9,7 @@ Beautiful Soup
 Lemmatize key phrases
 Make concordance plots
 Make dispersion plots
+Make TSNE plots
 
 Tasks accomplished
 Key phrases defined
