@@ -1,0 +1,10 @@
+['https://yakamafish-nsn.gov/sites/default/files/projects/Mid_C_coho_MP_2_8_17_sm.pdf',
+'https://yakamafish-nsn.gov/sites/default/files/projects/YN_Chinook-Coho_Master_Plan_Update_Volume_I_092019_0.pdf',
+'https://yakamafish-nsn.gov/sites/default/files/projects/YN_Revised_Master_Plan_Volume_II_092019_0.pdf,
+'https://static1.squarespace.com/static/56f45574d51cd42551248613/t/57abbb34d1758ee63fa50fae/1470872380920/Chief+Joseph+Hatchery+Program+Principles_FINAL.pdf',
+'https://static1.squarespace.com/static/56f45574d51cd42551248613/t/57abbcd015d5db281ea3e4f6/1470872802700/CJHP_ME_Plan-Summer-Fall_Chinook+11-12-09.pdf',
+'https://static1.squarespace.com/static/56f45574d51cd42551248613/t/57abbd3129687f7e343c4d3f/1470872887375/CJHP+Spring+Chinook+ME+Plan+11-12-09.pdf',
+'https://www.sfnooksack.com/files/SFNR%20Watershed%20Conservation%20Plan%20Updated%20Jan%202018%20FINAL!.pdf',
+'https://www.sfnooksack.com/files/FINAL%20SFNR%20reach%20scale%20Plan%206-21-17.pdf',
+'https://cig.uw.edu/wp-content/uploads/sites/2/2020/05/Nooksack-Indian-Tribe-Climate-Change-Adaptation-Plan.pdf',
+'https://www.sfnooksack.com/files/Acme-Saxon_Reach_Restoration_Planning.pdf']
