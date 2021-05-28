@@ -23,7 +23,7 @@ Contained within this repository are:
 
 + Exploratory visualizations of common words and their connections (see below)
 
-+ The PdfScrape program & video tutorial explaining how to use the program for your own list of PDF URLs.
++ The PdfScrape program & ![video tutorial](https://github.com/COMET-NLP-Group/Repository/blob/main/PdfScrapeTutorial-2021-05-27.mp4) explaining how to use the program for your own list of PDF URLs.
 
 ## Example visualizations
 
