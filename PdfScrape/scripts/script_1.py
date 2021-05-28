@@ -81,7 +81,7 @@ if __name__=='__main__':
     if input_urls is not None:
         urls = input_urls
     else:
-        html_file = './Plans.html' # this will scrape the fish and wild life service WA site
+        html_file = 'inputs/Plans.html' # this will scrape the fish and wild life service WA site
         urls = ExtractUrls(html_file)
     
     big_pdf = list()
