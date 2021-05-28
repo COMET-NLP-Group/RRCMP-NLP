@@ -8,7 +8,7 @@ A Python natural language processing program for identifying key words and phras
 
 ## Approach
 
-The PdfScrape program processes PDFs hosted online into various analysis ready data, and performs some initial, exploratory visualizations of common words and their connections. 
+The PdfScrape program processes PDFs hosted online into various analysis ready data, and performs some initial, exploratory visualizations of common words and their connections.
 
 
 ## Project Status
@@ -19,7 +19,7 @@ Contained within this repository are:
 
 + A [complied list of URLs](https://raw.githubusercontent.com/COMET-NLP-Group/Repository/main/PdfScrape/inputs/management-plan-urls.txt) for the management plans.
 
-+ Various (analysis ready versions)[https://github.com/COMET-NLP-Group/Repository/tree/main/PdfScrape/FWLS_Data] of Fish & Wildlife Species Recovery Plans PDFs
++ Various [analysis ready versions](https://github.com/COMET-NLP-Group/Repository/tree/main/PdfScrape/FWLS_Data) of Fish & Wildlife Species Recovery Plans PDFs
 
 + Exploratory visualizations of common words and their connections (see below)
 
