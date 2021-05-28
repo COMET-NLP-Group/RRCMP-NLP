@@ -5,7 +5,7 @@ NEED TO LIST ALL THE PYTHON LIBRARIES HERE
 
 ## Video tutorial
 
-Check out the screen cast video detailing how to set up and run the program.
+Check out the [screen cast video](https://github.com/COMET-NLP-Group/Repository/blob/main/PdfScrapeTutorial-2021-05-27.mp4) detailing how to set up and run the program.
 
 ## Program initialization
 
