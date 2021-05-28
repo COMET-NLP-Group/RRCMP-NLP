@@ -85,13 +85,13 @@ the placement of a point along the X-axis indicates which key group it belongs t
 
 ### `TSNE`
 
-**Input: **
+**Input:**
 
-	perplexity: 			The perplexity to use for the TSNE. Perplexity can be loosely associated with number of neighbors for an individual point.
+perplexity: 			The perplexity to use for the TSNE. Perplexity can be loosely associated with number of neighbors for an individual point.
 
-	`KeyVal_Formatted_DF.csv`: 	The data frame generated in `script_2` and found in the `tidy` directory
+`KeyVal_Formatted_DF.csv`: 	The data frame generated in `script_2` and found in the `tidy` directory
 
-	User defined variables:		The user can choose to map colors onto the TSNE using key word phrases in order to see sub-clustering patterns
+User defined variables:		The user can choose to map colors onto the TSNE using key word phrases in order to see sub-clustering patterns
 
 This script allows the user to visually analyze text clustering patterns from the input PDFs. The input data frame `KeyVal_Formatted_DF.csv` is used to 
 generate component arrays, which are then rejoined to the corresponding key-value pair in `KeyVal_Formatted_DF.csv`. The resulting data frame (concat1) is written
